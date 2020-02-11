@@ -1,1 +1,1 @@
-![](https://quantumnovice.github.io/blogpost/index.html)
+https://quantumnovice.github.io/blogposts/index.html
